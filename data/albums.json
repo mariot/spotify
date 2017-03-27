@@ -1,0 +1,797 @@
+{
+  "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x/albums?offset=0&limit=20&album_type=single,album,compilation,appears_on,ep",
+  "items" : [ {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+      "id" : "5K4W6rqBFWDnAN6FQUkS6x",
+      "name" : "Kanye West",
+      "type" : "artist",
+      "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7gsWAHLeT0w7es6FofOXk1",
+    "id" : "7gsWAHLeT0w7es6FofOXk1",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/443372cd2c6d4245833fb46ac1c5dabca00c78a9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d2351cd8009379e06421c31fe7de3f87178b4e66",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/4c9fcc4c6f9408a4111f963143d8d13fb58df2b3",
+      "width" : 64
+    } ],
+    "name" : "The Life Of Pablo",
+    "type" : "album",
+    "uri" : "spotify:album:7gsWAHLeT0w7es6FofOXk1"
+  }, {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+      "id" : "5K4W6rqBFWDnAN6FQUkS6x",
+      "name" : "Kanye West",
+      "type" : "artist",
+      "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4xM1pUHZp9HsuKNxyOQDR0"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4xM1pUHZp9HsuKNxyOQDR0",
+    "id" : "4xM1pUHZp9HsuKNxyOQDR0",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6c2a8de85c0ca1baf556401b9b672903d8f76954",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/cb68c3b2517700531ecf91728fb0897cff715d9b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/61a990b59f8eaabc846b201defb0121bb92963eb",
+      "width" : 64
+    } ],
+    "name" : "The Life Of Pablo",
+    "type" : "album",
+    "uri" : "spotify:album:4xM1pUHZp9HsuKNxyOQDR0"
+  }, {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+      "id" : "5K4W6rqBFWDnAN6FQUkS6x",
+      "name" : "Kanye West",
+      "type" : "artist",
+      "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7D2NdGvBHIavgLhmcwhluK",
+    "id" : "7D2NdGvBHIavgLhmcwhluK",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/87982737e43f86e172dbf9897f6e437fde2d7caf",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9f869b8abefaa75f9bae84cbe758b19a95533237",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0ab731d75ad5a1f95376adaa1b4670132a77ba42",
+      "width" : 64
+    } ],
+    "name" : "Yeezus",
+    "type" : "album",
+    "uri" : "spotify:album:7D2NdGvBHIavgLhmcwhluK"
+  }, {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+      "id" : "5K4W6rqBFWDnAN6FQUkS6x",
+      "name" : "Kanye West",
+      "type" : "artist",
+      "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0XTAmejG8F97wF5MWoVbaY"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0XTAmejG8F97wF5MWoVbaY",
+    "id" : "0XTAmejG8F97wF5MWoVbaY",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3d003b7bb9e93a101d412f475fe2d1e7df62b3c7",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/024854b21aa6905b74f73553aec7ada1e29f7388",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/97cafc7077d216c510bd0bbf35f91437fc863730",
+      "width" : 64
+    } ],
+    "name" : "Yeezus",
+    "type" : "album",
+    "uri" : "spotify:album:0XTAmejG8F97wF5MWoVbaY"
+  }, {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+      "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+      "name" : "JAY Z",
+      "type" : "artist",
+      "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+      "id" : "5K4W6rqBFWDnAN6FQUkS6x",
+      "name" : "Kanye West",
+      "type" : "artist",
+      "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+    } ],
+    "available_markets" : [ "JP" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/150swHtucoOm0cvEVtMpHc"
+    },
+    "href" : "https://api.spotify.com/v1/albums/150swHtucoOm0cvEVtMpHc",
+    "id" : "150swHtucoOm0cvEVtMpHc",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1dd9ea26e24abc51c0f777c23ace6bad3b34e647",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e1c21e4c47f05064f3fabb57772c32fbaeb892d5",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0baf95790e6fea819f86a324e09cf7983e9b431c",
+      "width" : 64
+    } ],
+    "name" : "Watch The Throne",
+    "type" : "album",
+    "uri" : "spotify:album:150swHtucoOm0cvEVtMpHc"
+  }, {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+      "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+      "name" : "JAY Z",
+      "type" : "artist",
+      "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+      "id" : "5K4W6rqBFWDnAN6FQUkS6x",
+      "name" : "Kanye West",
+      "type" : "artist",
+      "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0OcMap99vLEeGkBCfCwRwS"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0OcMap99vLEeGkBCfCwRwS",
+    "id" : "0OcMap99vLEeGkBCfCwRwS",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/bc3adbb49829af30f02bbf13a3ec1208308b7728",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3cb64eea494663c3503ff8671d388309095a9539",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/afce81b50a326c033d736245ff49ba6f2af208f3",
+      "width" : 64
+    } ],
+    "name" : "Watch The Throne",
+    "type" : "album",
+    "uri" : "spotify:album:0OcMap99vLEeGkBCfCwRwS"
+  }, {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+      "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+      "name" : "JAY Z",
+      "type" : "artist",
+      "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+      "id" : "5K4W6rqBFWDnAN6FQUkS6x",
+      "name" : "Kanye West",
+      "type" : "artist",
+      "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7mCeLbChyegbRwwKK5shJs"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7mCeLbChyegbRwwKK5shJs",
+    "id" : "7mCeLbChyegbRwwKK5shJs",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/53a873782700273b05ceb310699cb22d08b345ae",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/307b625ca92967f53e16af5e986aec87ce95c511",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d859a181964d6e29bd43987e14a38184c0ed19b8",
+      "width" : 64
+    } ],
+    "name" : "Watch The Throne",
+    "type" : "album",
+    "uri" : "spotify:album:7mCeLbChyegbRwwKK5shJs"
+  }, {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+      "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+      "name" : "JAY Z",
+      "type" : "artist",
+      "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+      "id" : "5K4W6rqBFWDnAN6FQUkS6x",
+      "name" : "Kanye West",
+      "type" : "artist",
+      "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+    } ],
+    "available_markets" : [ "ID", "MY", "PL", "TR" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6Oa0ZYzr4VdFIz3zNmYJYQ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6Oa0ZYzr4VdFIz3zNmYJYQ",
+    "id" : "6Oa0ZYzr4VdFIz3zNmYJYQ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1dd9ea26e24abc51c0f777c23ace6bad3b34e647",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e1c21e4c47f05064f3fabb57772c32fbaeb892d5",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0baf95790e6fea819f86a324e09cf7983e9b431c",
+      "width" : 64
+    } ],
+    "name" : "Watch The Throne (Edited Version)",
+    "type" : "album",
+    "uri" : "spotify:album:6Oa0ZYzr4VdFIz3zNmYJYQ"
+  }, {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+      "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+      "name" : "JAY Z",
+      "type" : "artist",
+      "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+      "id" : "5K4W6rqBFWDnAN6FQUkS6x",
+      "name" : "Kanye West",
+      "type" : "artist",
+      "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+    } ],
+    "available_markets" : [ "CR", "DO", "GT", "HN", "JP", "NI", "PA", "SV" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2gJyLhpZSlDiBjN0CV8XTr"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2gJyLhpZSlDiBjN0CV8XTr",
+    "id" : "2gJyLhpZSlDiBjN0CV8XTr",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/bc3adbb49829af30f02bbf13a3ec1208308b7728",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3cb64eea494663c3503ff8671d388309095a9539",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/afce81b50a326c033d736245ff49ba6f2af208f3",
+      "width" : 64
+    } ],
+    "name" : "Watch The Throne (Edited Version)",
+    "type" : "album",
+    "uri" : "spotify:album:2gJyLhpZSlDiBjN0CV8XTr"
+  }, {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+      "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+      "name" : "JAY Z",
+      "type" : "artist",
+      "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+      "id" : "5K4W6rqBFWDnAN6FQUkS6x",
+      "name" : "Kanye West",
+      "type" : "artist",
+      "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0eZRIt3Ht1IuMXsr0QR8OY"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0eZRIt3Ht1IuMXsr0QR8OY",
+    "id" : "0eZRIt3Ht1IuMXsr0QR8OY",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/53a873782700273b05ceb310699cb22d08b345ae",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/307b625ca92967f53e16af5e986aec87ce95c511",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d859a181964d6e29bd43987e14a38184c0ed19b8",
+      "width" : 64
+    } ],
+    "name" : "Watch The Throne",
+    "type" : "album",
+    "uri" : "spotify:album:0eZRIt3Ht1IuMXsr0QR8OY"
+  }, {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+      "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+      "name" : "JAY Z",
+      "type" : "artist",
+      "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+      "id" : "5K4W6rqBFWDnAN6FQUkS6x",
+      "name" : "Kanye West",
+      "type" : "artist",
+      "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+    } ],
+    "available_markets" : [ "JP" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2jezpfpV88DpBa5ALvaZoG"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2jezpfpV88DpBa5ALvaZoG",
+    "id" : "2jezpfpV88DpBa5ALvaZoG",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1dd9ea26e24abc51c0f777c23ace6bad3b34e647",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e1c21e4c47f05064f3fabb57772c32fbaeb892d5",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0baf95790e6fea819f86a324e09cf7983e9b431c",
+      "width" : 64
+    } ],
+    "name" : "Watch The Throne (Deluxe)",
+    "type" : "album",
+    "uri" : "spotify:album:2jezpfpV88DpBa5ALvaZoG"
+  }, {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+      "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+      "name" : "JAY Z",
+      "type" : "artist",
+      "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+      "id" : "5K4W6rqBFWDnAN6FQUkS6x",
+      "name" : "Kanye West",
+      "type" : "artist",
+      "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2P2Xwvh2xWXIZ1OWY9S9o5",
+    "id" : "2P2Xwvh2xWXIZ1OWY9S9o5",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/bc3adbb49829af30f02bbf13a3ec1208308b7728",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3cb64eea494663c3503ff8671d388309095a9539",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/afce81b50a326c033d736245ff49ba6f2af208f3",
+      "width" : 64
+    } ],
+    "name" : "Watch The Throne (Deluxe)",
+    "type" : "album",
+    "uri" : "spotify:album:2P2Xwvh2xWXIZ1OWY9S9o5"
+  }, {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+      "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+      "name" : "JAY Z",
+      "type" : "artist",
+      "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+      "id" : "5K4W6rqBFWDnAN6FQUkS6x",
+      "name" : "Kanye West",
+      "type" : "artist",
+      "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1YwzJz7CrV9fd9Qeb6oo1d"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1YwzJz7CrV9fd9Qeb6oo1d",
+    "id" : "1YwzJz7CrV9fd9Qeb6oo1d",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/53a873782700273b05ceb310699cb22d08b345ae",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/307b625ca92967f53e16af5e986aec87ce95c511",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d859a181964d6e29bd43987e14a38184c0ed19b8",
+      "width" : 64
+    } ],
+    "name" : "Watch The Throne (Deluxe)",
+    "type" : "album",
+    "uri" : "spotify:album:1YwzJz7CrV9fd9Qeb6oo1d"
+  }, {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+      "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+      "name" : "JAY Z",
+      "type" : "artist",
+      "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+      "id" : "5K4W6rqBFWDnAN6FQUkS6x",
+      "name" : "Kanye West",
+      "type" : "artist",
+      "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+    } ],
+    "available_markets" : [ "JP" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/19lG1iQ0ZTCVzhnAPMMhBm"
+    },
+    "href" : "https://api.spotify.com/v1/albums/19lG1iQ0ZTCVzhnAPMMhBm",
+    "id" : "19lG1iQ0ZTCVzhnAPMMhBm",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1dd9ea26e24abc51c0f777c23ace6bad3b34e647",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e1c21e4c47f05064f3fabb57772c32fbaeb892d5",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0baf95790e6fea819f86a324e09cf7983e9b431c",
+      "width" : 64
+    } ],
+    "name" : "Watch The Throne (Deluxe)",
+    "type" : "album",
+    "uri" : "spotify:album:19lG1iQ0ZTCVzhnAPMMhBm"
+  }, {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+      "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+      "name" : "JAY Z",
+      "type" : "artist",
+      "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+      "id" : "5K4W6rqBFWDnAN6FQUkS6x",
+      "name" : "Kanye West",
+      "type" : "artist",
+      "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+    } ],
+    "available_markets" : [ "ES", "HU", "IS", "MY", "NO", "PH", "PL", "PT", "TR" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2IC7s3KVP6ottxQUnkm4eS"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2IC7s3KVP6ottxQUnkm4eS",
+    "id" : "2IC7s3KVP6ottxQUnkm4eS",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1dd9ea26e24abc51c0f777c23ace6bad3b34e647",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e1c21e4c47f05064f3fabb57772c32fbaeb892d5",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0baf95790e6fea819f86a324e09cf7983e9b431c",
+      "width" : 64
+    } ],
+    "name" : "Watch The Throne (Deluxe)",
+    "type" : "album",
+    "uri" : "spotify:album:2IC7s3KVP6ottxQUnkm4eS"
+  }, {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+      "id" : "3nFkdlSjzX9mRTtwJOzDYB",
+      "name" : "JAY Z",
+      "type" : "artist",
+      "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+      "id" : "5K4W6rqBFWDnAN6FQUkS6x",
+      "name" : "Kanye West",
+      "type" : "artist",
+      "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4P63UgNDUcF11MnWzyvVrh"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4P63UgNDUcF11MnWzyvVrh",
+    "id" : "4P63UgNDUcF11MnWzyvVrh",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/53a873782700273b05ceb310699cb22d08b345ae",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/307b625ca92967f53e16af5e986aec87ce95c511",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d859a181964d6e29bd43987e14a38184c0ed19b8",
+      "width" : 64
+    } ],
+    "name" : "Watch The Throne (Deluxe)",
+    "type" : "album",
+    "uri" : "spotify:album:4P63UgNDUcF11MnWzyvVrh"
+  }, {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+      "id" : "5K4W6rqBFWDnAN6FQUkS6x",
+      "name" : "Kanye West",
+      "type" : "artist",
+      "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+    } ],
+    "available_markets" : [ "CA", "MX", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+    },
+    "href" : "https://api.spotify.com/v1/albums/20r762YmB5HeofjMCiPMLv",
+    "id" : "20r762YmB5HeofjMCiPMLv",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/de693f63e4f4f2796ff448ccd73d4b4831faf30b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1610aeab18aa441a0a7fc4870ebb9d9060c47395",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/8a1fb961687530ee37b426e104e89da608c7481d",
+      "width" : 64
+    } ],
+    "name" : "My Beautiful Dark Twisted Fantasy",
+    "type" : "album",
+    "uri" : "spotify:album:20r762YmB5HeofjMCiPMLv"
+  }, {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+      "id" : "5K4W6rqBFWDnAN6FQUkS6x",
+      "name" : "Kanye West",
+      "type" : "artist",
+      "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6LBiuhK7PZKjVXyMfPxPoh"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6LBiuhK7PZKjVXyMfPxPoh",
+    "id" : "6LBiuhK7PZKjVXyMfPxPoh",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/52995daccd814da6e73ac594e0eeabb55beecfb0",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/902c19965098f8579835612b7a0c51b499048971",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a3771750bfaa8efe8e22dfc147d1463b3db52332",
+      "width" : 64
+    } ],
+    "name" : "My Beautiful Dark Twisted Fantasy",
+    "type" : "album",
+    "uri" : "spotify:album:6LBiuhK7PZKjVXyMfPxPoh"
+  }, {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+      "id" : "5K4W6rqBFWDnAN6FQUkS6x",
+      "name" : "Kanye West",
+      "type" : "artist",
+      "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+    } ],
+    "available_markets" : [ "ID", "MY", "TR" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1SGxmLRKnJNI1ZMDoBWXoS"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1SGxmLRKnJNI1ZMDoBWXoS",
+    "id" : "1SGxmLRKnJNI1ZMDoBWXoS",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0f8742ebb094d2e3df357293c2f2a0d6f33eb7ad",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b4cad44e3b7f938cf3dd2974c9b9daba5334e0ff",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0d570fae2b211fac6f4cc316b9428f78bd1e21e1",
+      "width" : 64
+    } ],
+    "name" : "My Beautiful Dark Twisted Fantasy",
+    "type" : "album",
+    "uri" : "spotify:album:1SGxmLRKnJNI1ZMDoBWXoS"
+  }, {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+      "id" : "5K4W6rqBFWDnAN6FQUkS6x",
+      "name" : "Kanye West",
+      "type" : "artist",
+      "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6klUp8sQyRXGuJhqZu4PG3"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6klUp8sQyRXGuJhqZu4PG3",
+    "id" : "6klUp8sQyRXGuJhqZu4PG3",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0468f051f9b3d17ca711eba4e09ad5bbab15c7e3",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2f52814f358f517c67a0780801cc58352da3900c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/017f9577f77bc4899c9b97fb336a18053029fd3d",
+      "width" : 64
+    } ],
+    "name" : "My Beautiful Dark Twisted Fantasy",
+    "type" : "album",
+    "uri" : "spotify:album:6klUp8sQyRXGuJhqZu4PG3"
+  } ],
+  "limit" : 20,
+  "next" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x/albums?offset=20&limit=20&album_type=single,album,compilation,appears_on,ep",
+  "offset" : 0,
+  "previous" : null,
+  "total" : 722
+}

@@ -1,0 +1,33 @@
+{
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+  },
+  "followers" : {
+    "href" : null,
+    "total" : 4289296
+  },
+  "genres" : [ "pop", "pop christmas", "pop rap", "rap" ],
+  "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+  "id" : "5K4W6rqBFWDnAN6FQUkS6x",
+  "images" : [ {
+    "height" : 666,
+    "url" : "https://i.scdn.co/image/b86a3dbd77a8353647bff195d310d5eb1bd80af6",
+    "width" : 999
+  }, {
+    "height" : 426,
+    "url" : "https://i.scdn.co/image/37ebfb3df8966b60e114cab3b5ebecea705347b7",
+    "width" : 639
+  }, {
+    "height" : 133,
+    "url" : "https://i.scdn.co/image/c91e8b8341db71d9700d4635bbd3b0860c452e4d",
+    "width" : 200
+  }, {
+    "height" : 43,
+    "url" : "https://i.scdn.co/image/27e073a7c285d68b60c1e2c8f1ab8bd2b44d6f74",
+    "width" : 64
+  } ],
+  "name" : "Kanye West",
+  "popularity" : 91,
+  "type" : "artist",
+  "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+}

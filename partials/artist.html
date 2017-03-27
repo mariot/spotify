@@ -1,0 +1,23 @@
+<section class="artistinfo">
+  <div class="artist cf" ng-model="artists">
+    <a href="#!/search" class="btn btn-left">&lt;</a>
+    <h1>{{artist.name}}</h1>
+    <div class="artist">
+      <img ng-src="{{artist.images.slice().reverse()[0].url}}"
+        alt="Photo of {{artist.name}}" />
+      <h3>Followers: {{artist.followers.total}}</h3>
+      <h3>Popularity: {{artist.popularity}}</h3>
+    </div>
+  </div>
+
+  <ul class="resultlist">
+    <li class="artist cf"
+      ng-repeat="item in albums">
+        <img ng-src="{{item.images.slice().reverse()[0].url}}"
+          alt="Photo of {{item.name}}" />
+        <div class="info">
+          <h2>{{item.name}}</h2>
+        </div>
+    </li>
+  </ul>
+</section>

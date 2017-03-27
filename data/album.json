@@ -1,0 +1,559 @@
+{
+  "album_type" : "album",
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+    "id" : "5K4W6rqBFWDnAN6FQUkS6x",
+    "name" : "Kanye West",
+    "type" : "artist",
+    "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+  } ],
+  "available_markets" : [ "CA", "MX", "US" ],
+  "copyrights" : [ {
+    "text" : "(C) 2016 Getting Out Our Dreams II, LLC Distributed By Def Jam, A Division of UMG Recordings, Inc.Good Music ™ and associated logo are trademarks of Mascotte Holdings, Inc. All rights reserved.",
+    "type" : "C"
+  }, {
+    "text" : "(P) 2016 Getting Out Our Dreams II, LLC Distributed By Def Jam, A Division of UMG Recordings, Inc.Good Music ™ and associated logo are trademarks of Mascotte Holdings, Inc. All rights reserved.",
+    "type" : "P"
+  } ],
+  "external_ids" : {
+    "upc" : "00602557027334"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
+  },
+  "genres" : [ ],
+  "href" : "https://api.spotify.com/v1/albums/7gsWAHLeT0w7es6FofOXk1",
+  "id" : "7gsWAHLeT0w7es6FofOXk1",
+  "images" : [ {
+    "height" : 640,
+    "url" : "https://i.scdn.co/image/443372cd2c6d4245833fb46ac1c5dabca00c78a9",
+    "width" : 640
+  }, {
+    "height" : 300,
+    "url" : "https://i.scdn.co/image/d2351cd8009379e06421c31fe7de3f87178b4e66",
+    "width" : 300
+  }, {
+    "height" : 64,
+    "url" : "https://i.scdn.co/image/4c9fcc4c6f9408a4111f963143d8d13fb58df2b3",
+    "width" : 64
+  } ],
+  "label" : "Rock The World/IDJ/Kanye LP7",
+  "name" : "The Life Of Pablo",
+  "popularity" : 85,
+  "release_date" : "2016-06-10",
+  "release_date_precision" : "day",
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/albums/7gsWAHLeT0w7es6FofOXk1/tracks?offset=0&limit=50",
+    "items" : [ {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+        "id" : "5K4W6rqBFWDnAN6FQUkS6x",
+        "name" : "Kanye West",
+        "type" : "artist",
+        "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+      } ],
+      "available_markets" : [ "CA", "MX", "US" ],
+      "disc_number" : 1,
+      "duration_ms" : 320680,
+      "explicit" : true,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1eQBEelI2NCy7AUTerX0KS"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1eQBEelI2NCy7AUTerX0KS",
+      "id" : "1eQBEelI2NCy7AUTerX0KS",
+      "name" : "Ultralight Beam",
+      "preview_url" : "https://p.scdn.co/mp3-preview/ac72493a5aa36000a9ce2dc5eb6f94e4f862f761?cid=null",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:1eQBEelI2NCy7AUTerX0KS"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+        "id" : "5K4W6rqBFWDnAN6FQUkS6x",
+        "name" : "Kanye West",
+        "type" : "artist",
+        "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+      } ],
+      "available_markets" : [ "CA", "MX", "US" ],
+      "disc_number" : 1,
+      "duration_ms" : 135920,
+      "explicit" : true,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4KW1lqgSr8TKrvBII0Brf8"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4KW1lqgSr8TKrvBII0Brf8",
+      "id" : "4KW1lqgSr8TKrvBII0Brf8",
+      "name" : "Father Stretch My Hands Pt. 1",
+      "preview_url" : "https://p.scdn.co/mp3-preview/c06126ce865f0355269220872536f3f43d112aca?cid=null",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:4KW1lqgSr8TKrvBII0Brf8"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+        "id" : "5K4W6rqBFWDnAN6FQUkS6x",
+        "name" : "Kanye West",
+        "type" : "artist",
+        "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+      } ],
+      "available_markets" : [ "CA", "MX", "US" ],
+      "disc_number" : 1,
+      "duration_ms" : 130293,
+      "explicit" : true,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1Wsbr1d2BouNGk2q92mIj7"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1Wsbr1d2BouNGk2q92mIj7",
+      "id" : "1Wsbr1d2BouNGk2q92mIj7",
+      "name" : "Pt. 2",
+      "preview_url" : "https://p.scdn.co/mp3-preview/07d650b0dc0ae5909d805c3e9f7eeb8883ba7aec?cid=null",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:1Wsbr1d2BouNGk2q92mIj7"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+        "id" : "5K4W6rqBFWDnAN6FQUkS6x",
+        "name" : "Kanye West",
+        "type" : "artist",
+        "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+      } ],
+      "available_markets" : [ "CA", "MX", "US" ],
+      "disc_number" : 1,
+      "duration_ms" : 196040,
+      "explicit" : true,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/19a3JfW8BQwqHWUMbcqSx8"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/19a3JfW8BQwqHWUMbcqSx8",
+      "id" : "19a3JfW8BQwqHWUMbcqSx8",
+      "name" : "Famous",
+      "preview_url" : "https://p.scdn.co/mp3-preview/38ff358b9c9539de9d579352ac0f3f2875383761?cid=null",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:19a3JfW8BQwqHWUMbcqSx8"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+        "id" : "5K4W6rqBFWDnAN6FQUkS6x",
+        "name" : "Kanye West",
+        "type" : "artist",
+        "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+      } ],
+      "available_markets" : [ "CA", "MX", "US" ],
+      "disc_number" : 1,
+      "duration_ms" : 147240,
+      "explicit" : true,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/49fT6owWuknekShh9utsjv"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/49fT6owWuknekShh9utsjv",
+      "id" : "49fT6owWuknekShh9utsjv",
+      "name" : "Feedback",
+      "preview_url" : "https://p.scdn.co/mp3-preview/f3cef1c11e8cb298f0e07c94a8b46542f755fc24?cid=null",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:49fT6owWuknekShh9utsjv"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+        "id" : "5K4W6rqBFWDnAN6FQUkS6x",
+        "name" : "Kanye West",
+        "type" : "artist",
+        "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+      } ],
+      "available_markets" : [ "CA", "MX", "US" ],
+      "disc_number" : 1,
+      "duration_ms" : 131773,
+      "explicit" : true,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/36o4taPyOdnOMf01ERmn9a"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/36o4taPyOdnOMf01ERmn9a",
+      "id" : "36o4taPyOdnOMf01ERmn9a",
+      "name" : "Low Lights",
+      "preview_url" : "https://p.scdn.co/mp3-preview/1217ce27116414a8cb0949d0a2b762ff87e6278a?cid=null",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:36o4taPyOdnOMf01ERmn9a"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+        "id" : "5K4W6rqBFWDnAN6FQUkS6x",
+        "name" : "Kanye West",
+        "type" : "artist",
+        "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+      } ],
+      "available_markets" : [ "CA", "MX", "US" ],
+      "disc_number" : 1,
+      "duration_ms" : 199866,
+      "explicit" : true,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4qYLPta5HZ36idWiXtqh7B"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4qYLPta5HZ36idWiXtqh7B",
+      "id" : "4qYLPta5HZ36idWiXtqh7B",
+      "name" : "Highlights",
+      "preview_url" : "https://p.scdn.co/mp3-preview/a17a618580fc19da5f9b29dfa5cd406998f82457?cid=null",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:4qYLPta5HZ36idWiXtqh7B"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+        "id" : "5K4W6rqBFWDnAN6FQUkS6x",
+        "name" : "Kanye West",
+        "type" : "artist",
+        "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+      } ],
+      "available_markets" : [ "CA", "MX", "US" ],
+      "disc_number" : 1,
+      "duration_ms" : 123386,
+      "explicit" : true,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6wfzokDylbrJzrJcpnBkcy"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6wfzokDylbrJzrJcpnBkcy",
+      "id" : "6wfzokDylbrJzrJcpnBkcy",
+      "name" : "Freestyle 4",
+      "preview_url" : "https://p.scdn.co/mp3-preview/d2ef0b68ba39dec3ebfa7cecaa6d26687193c01f?cid=null",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:6wfzokDylbrJzrJcpnBkcy"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+        "id" : "5K4W6rqBFWDnAN6FQUkS6x",
+        "name" : "Kanye West",
+        "type" : "artist",
+        "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+      } ],
+      "available_markets" : [ "CA", "MX", "US" ],
+      "disc_number" : 1,
+      "duration_ms" : 44826,
+      "explicit" : true,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5CGS4UovzA7ftCJkLVXQju"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5CGS4UovzA7ftCJkLVXQju",
+      "id" : "5CGS4UovzA7ftCJkLVXQju",
+      "name" : "I Love Kanye",
+      "preview_url" : "https://p.scdn.co/mp3-preview/7165cd8a9db8d05bc54502959b590fd5144003df?cid=null",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:5CGS4UovzA7ftCJkLVXQju"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+        "id" : "5K4W6rqBFWDnAN6FQUkS6x",
+        "name" : "Kanye West",
+        "type" : "artist",
+        "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+      } ],
+      "available_markets" : [ "CA", "MX", "US" ],
+      "disc_number" : 1,
+      "duration_ms" : 181573,
+      "explicit" : true,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3nAq2hCr1oWsIU54tS98pL"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3nAq2hCr1oWsIU54tS98pL",
+      "id" : "3nAq2hCr1oWsIU54tS98pL",
+      "name" : "Waves",
+      "preview_url" : "https://p.scdn.co/mp3-preview/59b7fa2f29a97bfda9772782d0cb5347a2d63ea8?cid=null",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:3nAq2hCr1oWsIU54tS98pL"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+        "id" : "5K4W6rqBFWDnAN6FQUkS6x",
+        "name" : "Kanye West",
+        "type" : "artist",
+        "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+      } ],
+      "available_markets" : [ "CA", "MX", "US" ],
+      "disc_number" : 1,
+      "duration_ms" : 236120,
+      "explicit" : true,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/30Zcjs7pgEkmJA1lEbGSWT"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/30Zcjs7pgEkmJA1lEbGSWT",
+      "id" : "30Zcjs7pgEkmJA1lEbGSWT",
+      "name" : "FML",
+      "preview_url" : "https://p.scdn.co/mp3-preview/7231ee1f9e569229a3341a1167468cbe85862582?cid=null",
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:30Zcjs7pgEkmJA1lEbGSWT"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+        "id" : "5K4W6rqBFWDnAN6FQUkS6x",
+        "name" : "Kanye West",
+        "type" : "artist",
+        "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+      } ],
+      "available_markets" : [ "CA", "MX", "US" ],
+      "disc_number" : 1,
+      "duration_ms" : 251573,
+      "explicit" : true,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/66Q3fAmSX5eHamgbKa9alP"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/66Q3fAmSX5eHamgbKa9alP",
+      "id" : "66Q3fAmSX5eHamgbKa9alP",
+      "name" : "Real Friends",
+      "preview_url" : "https://p.scdn.co/mp3-preview/86594529ac64126eca7ebee86fe9a2599b8ad9d4?cid=null",
+      "track_number" : 12,
+      "type" : "track",
+      "uri" : "spotify:track:66Q3fAmSX5eHamgbKa9alP"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+        "id" : "5K4W6rqBFWDnAN6FQUkS6x",
+        "name" : "Kanye West",
+        "type" : "artist",
+        "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+      } ],
+      "available_markets" : [ "CA", "MX", "US" ],
+      "disc_number" : 1,
+      "duration_ms" : 301586,
+      "explicit" : true,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/432hUIl3ISDeytYW5XBQ5h"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/432hUIl3ISDeytYW5XBQ5h",
+      "id" : "432hUIl3ISDeytYW5XBQ5h",
+      "name" : "Wolves",
+      "preview_url" : "https://p.scdn.co/mp3-preview/bafbf37e20c134fd56a945c535553609d1f19eaf?cid=null",
+      "track_number" : 13,
+      "type" : "track",
+      "uri" : "spotify:track:432hUIl3ISDeytYW5XBQ5h"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+        "id" : "5K4W6rqBFWDnAN6FQUkS6x",
+        "name" : "Kanye West",
+        "type" : "artist",
+        "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+      } ],
+      "available_markets" : [ "CA", "MX", "US" ],
+      "disc_number" : 1,
+      "duration_ms" : 38333,
+      "explicit" : true,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/20r94xA0bsYNLtYSiOE6r3"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/20r94xA0bsYNLtYSiOE6r3",
+      "id" : "20r94xA0bsYNLtYSiOE6r3",
+      "name" : "Frank's Track",
+      "preview_url" : "https://p.scdn.co/mp3-preview/0becf3402532d53e2070d5db4556728ece1939a0?cid=null",
+      "track_number" : 14,
+      "type" : "track",
+      "uri" : "spotify:track:20r94xA0bsYNLtYSiOE6r3"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+        "id" : "5K4W6rqBFWDnAN6FQUkS6x",
+        "name" : "Kanye West",
+        "type" : "artist",
+        "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+      } ],
+      "available_markets" : [ "CA", "MX", "US" ],
+      "disc_number" : 1,
+      "duration_ms" : 56560,
+      "explicit" : true,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1ZnA4VYOlYIShuGt60LmCs"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1ZnA4VYOlYIShuGt60LmCs",
+      "id" : "1ZnA4VYOlYIShuGt60LmCs",
+      "name" : "Siiiiiiiiilver Surffffeeeeer Intermission",
+      "preview_url" : "https://p.scdn.co/mp3-preview/eba427d0510d25efe134295e23abc3482f25a646?cid=null",
+      "track_number" : 15,
+      "type" : "track",
+      "uri" : "spotify:track:1ZnA4VYOlYIShuGt60LmCs"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+        "id" : "5K4W6rqBFWDnAN6FQUkS6x",
+        "name" : "Kanye West",
+        "type" : "artist",
+        "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+      } ],
+      "available_markets" : [ "CA", "MX", "US" ],
+      "disc_number" : 1,
+      "duration_ms" : 323302,
+      "explicit" : true,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2CHmgtK8OCL28WtIK96u4N"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2CHmgtK8OCL28WtIK96u4N",
+      "id" : "2CHmgtK8OCL28WtIK96u4N",
+      "name" : "30 Hours",
+      "preview_url" : "https://p.scdn.co/mp3-preview/bcf375edd6ef0422d4dae1ceb3a8889356e3bfdd?cid=null",
+      "track_number" : 16,
+      "type" : "track",
+      "uri" : "spotify:track:2CHmgtK8OCL28WtIK96u4N"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+        "id" : "5K4W6rqBFWDnAN6FQUkS6x",
+        "name" : "Kanye West",
+        "type" : "artist",
+        "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+      } ],
+      "available_markets" : [ "CA", "MX", "US" ],
+      "disc_number" : 1,
+      "duration_ms" : 374413,
+      "explicit" : true,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0zLClc0emc6qUeV1p5nc99"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0zLClc0emc6qUeV1p5nc99",
+      "id" : "0zLClc0emc6qUeV1p5nc99",
+      "name" : "No More Parties In LA",
+      "preview_url" : "https://p.scdn.co/mp3-preview/747f23d2a692a4443a7aac5beb35d975f85a451a?cid=null",
+      "track_number" : 17,
+      "type" : "track",
+      "uri" : "spotify:track:0zLClc0emc6qUeV1p5nc99"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+        "id" : "5K4W6rqBFWDnAN6FQUkS6x",
+        "name" : "Kanye West",
+        "type" : "artist",
+        "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+      } ],
+      "available_markets" : [ "CA", "MX", "US" ],
+      "disc_number" : 1,
+      "duration_ms" : 200733,
+      "explicit" : true,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3MnbXlC1N7GdS9M8HzA6no"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3MnbXlC1N7GdS9M8HzA6no",
+      "id" : "3MnbXlC1N7GdS9M8HzA6no",
+      "name" : "Facts (Charlie Heat Version)",
+      "preview_url" : "https://p.scdn.co/mp3-preview/94e9414e1f8b5d278773afc9ef5a980bb862f1f4?cid=null",
+      "track_number" : 18,
+      "type" : "track",
+      "uri" : "spotify:track:3MnbXlC1N7GdS9M8HzA6no"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+        "id" : "5K4W6rqBFWDnAN6FQUkS6x",
+        "name" : "Kanye West",
+        "type" : "artist",
+        "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+      } ],
+      "available_markets" : [ "CA", "MX", "US" ],
+      "disc_number" : 1,
+      "duration_ms" : 193747,
+      "explicit" : true,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3cCxoOgfi6hgt8MNteuiiD"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3cCxoOgfi6hgt8MNteuiiD",
+      "id" : "3cCxoOgfi6hgt8MNteuiiD",
+      "name" : "Fade",
+      "preview_url" : "https://p.scdn.co/mp3-preview/906355de278856808a262d50a5a6673b56810c04?cid=null",
+      "track_number" : 19,
+      "type" : "track",
+      "uri" : "spotify:track:3cCxoOgfi6hgt8MNteuiiD"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+        "id" : "5K4W6rqBFWDnAN6FQUkS6x",
+        "name" : "Kanye West",
+        "type" : "artist",
+        "uri" : "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+      } ],
+      "available_markets" : [ "CA", "MX", "US" ],
+      "disc_number" : 1,
+      "duration_ms" : 372113,
+      "explicit" : true,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1o0kWPueYo94LIjPYOE5Nf"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1o0kWPueYo94LIjPYOE5Nf",
+      "id" : "1o0kWPueYo94LIjPYOE5Nf",
+      "name" : "Saint Pablo",
+      "preview_url" : "https://p.scdn.co/mp3-preview/1bebe073212e97238d3d120ba315a7deb2820ae3?cid=null",
+      "track_number" : 20,
+      "type" : "track",
+      "uri" : "spotify:track:1o0kWPueYo94LIjPYOE5Nf"
+    } ],
+    "limit" : 50,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 20
+  },
+  "type" : "album",
+  "uri" : "spotify:album:7gsWAHLeT0w7es6FofOXk1"
+}

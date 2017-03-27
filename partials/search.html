@@ -1,0 +1,48 @@
+<section class="artistpage">
+  <div class="search">
+    <h1>Music Directory</h1>
+    <label>search: </label>
+    <input ng-model="query" id="queryInput"
+      placeholder="Search for artists or albums" autofocus="true" />
+    <button type="button" ng-click="search(query)"
+      ng-show="query.length">Search</button>
+
+  </div>
+  <ul class="resultlist" id="resultlist">
+    <li class="artist cf"
+      ng-repeat="item in results track by $index">
+      <a href="#!/artist/{{item.id}}" ng-show="{{item.followers}}">
+        <img ng-src="{{item.images.slice().reverse()[0].url}}"
+          ng-show="{{item.images.length}}"
+          alt="Photo of {{item.name}}" />
+          <img ng-src="images/disc.jpeg"
+            ng-hide="{{item.images.length}}"
+            alt="Photo of a disc" />
+        <div class="info">
+          <h2>{{item.name}}</h2>
+          <div>
+            <h3>Followers: {{item.followers.total}}</h3>
+            <h3>Popularity: {{item.popularity}}</h3>
+          </div>
+        </div>
+      </a>
+      <a href="" ng-hide="{{item.followers}}">
+        <img ng-src="{{item.images.slice().reverse()[0].url}}"
+          ng-show="{{item.images.length}}"
+          alt="Photo of {{item.name}}" />
+          <img ng-src="images/disc.jpeg"
+            ng-hide="{{item.images.length}}"
+            alt="Photo of a disc" />
+        <div class="info">
+          <h2>{{item.name}}</h2>
+          <div>
+            <h3>Artist: {{item.artists[0].name}}</h3>
+          </div>
+        </div>
+      </a>
+    </li>
+    <h1>
+      <a href="" ng-click="loadMoreData()" ng-show="loadButton">load more</a>
+    </h1>
+  </ul>
+</section>
